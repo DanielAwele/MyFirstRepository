@@ -1,3 +1,5 @@
 This is file2.txt.
 
 This line and space was added at the local repository.
+
+This line was added to file2.txt from the git hub GUI on github website.
