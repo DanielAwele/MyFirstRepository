@@ -1,1 +1,3 @@
 This is file2.txt.
+
+This line and space was added at the local repository.
